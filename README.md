@@ -22,7 +22,7 @@ I'm Erick, a Systems Engineering student in Barranquilla, Colombia. I study medi
 
 **2024**
 - Trained my first U-Net and published it as a [book chapter](https://doi.org/10.17081/r.book.2025.01.16118).
-- Taught competitive programming every week to an IEEEXtreme team.
+- Taught competitive programming every week to multiple IEEEXtreme teams.
 
 **2023**
 - Started studying Systems Engineering.
